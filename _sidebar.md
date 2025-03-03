@@ -2,6 +2,6 @@
 - [Introduction](./introduction.md)
 - [Installation](./installation.md)
 - [Usage](./usage.md)
-- [Project 1](./project1/readme.md)
+- [Project 1](./project1/README.md)
 - [Introduction](./project1/introduction.md)
 - [Installation](./project1/installation.md)
